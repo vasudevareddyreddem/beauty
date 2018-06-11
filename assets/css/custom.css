@@ -1,0 +1,70 @@
+.cust_pop{
+   position: fixed;
+   right: -180px;
+   z-index: 9999999;
+   top: 300px;
+   transition: all 1s ease-in-out;
+   cursor: pointer;
+}
+
+.cust_pop:hover{
+   right:0px;
+   transition: all 1s ease-in-out;
+}
+.cust{
+   border-radius: 100%;
+   float: left;
+
+   padding: 20px 10px;
+}
+
+.cust_pop a{
+   float: left;
+}
+
+.cust_pop >div{
+   background-color: #fff;
+   margin-top: 17px;
+   padding: 5px;
+}
+.cust_pop >div a{
+   float: left;
+   clear: left;
+   text-decoration: none;
+   padding: 5px;
+   margin-top: 5px;
+   padding: 0;
+   color:#222;
+}
+
+.strike-rate{
+	 text-decoration: line-through;
+	 color:#aaa;
+	 font-size:18px;
+}
+.site-color{
+	color:#f52c96;
+	font-size:16px;
+}
+.table-pric{
+	color:#777;
+}
+
+.table-pric tr{
+	border-bottom:1px solid #ddd;
+
+}
+.table-pric td, th {
+    padding: 10px 5px;
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+    border-radius: 2px;
+}
+.col-site{
+	color:#f52c96;
+}
+.font-22{
+	font-size:22px;
+	text-align:center
+}

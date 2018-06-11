@@ -1,0 +1,107 @@
+.brand-text {
+    color: #f52c96 !important;
+}
+
+.brand-text i {
+    color: #f52c96 !important;
+}
+
+.brand-bg,
+.sweet-alert button {
+    background-color: #f52c96 !important;
+}
+
+.waves-effect.waves-brand  {
+    background-color: rgba(0, 188, 212, 0.66);
+}
+
+.p-overlay {
+    background-color: rgba(0, 188, 212, 0.9);
+}
+
+
+.circle-loader .path {
+    stroke: #f52c96;
+}
+
+
+.side-nav  li.current a,
+.side-nav  li a:hover {
+    border-bottom-color: #f52c96;
+}
+
+.static-menu li i:hover,
+.static-menu li a:hover,
+.submenu-ul li a:hover,
+.home-title span,
+.about-subtitle,
+.person-about > a.btn-large,
+.about-social ul li a i,
+.skill-title,
+.skill-count,
+.single-widget ul li a,
+.single-post-content a,
+.share-post li a:hover,
+.com-title a,
+span.num {
+    color: #f52c96;
+}
+
+.singel-hr-inner,
+.hr-wrap,
+.hrc:after,
+.thumb-slides-container.owl-theme .owl-controls .owl-page.active span,
+.blog-inner .card-content a.right:hover,
+.blog-inner .card-content a.right:focus,
+.contact-form .submit-btn:hover,
+.contact-form .submit-btn:focus,
+a.tags,
+.blog-inner .card-content a.right:active {
+    background-color: #f52c96;
+}
+
+.contact-form .materialize-textarea:focus,
+.contact-form .input-box:focus {
+    border-color: #f52c96;
+    box-shadow: 0px 1px 0px #f52c96;
+}
+
+
+.single-post-content blockquote {
+    border-left: 5px solid #f52c96;
+}
+
+
+
+@-webkit-keyframes color {
+    0%   {stroke: #f52c96;}
+    20%  {stroke: #f52c96;}
+    25%  {stroke: #f52c96;}
+    45%  {stroke: #f52c96;}
+    50%  {stroke: #f52c96;}
+    70%  {stroke: #f52c96;}
+    75%  {stroke: #f52c96;}
+    95%  {stroke: #f52c96;}
+}
+
+@keyframes color {
+    0%   {stroke: #f52c96;}
+    20%  {stroke: #f52c96;}
+    25%  {stroke: #f52c96;}
+    45%  {stroke: #f52c96;}
+    50%  {stroke: #f52c96;}
+    70%  {stroke: #f52c96;}
+    75%  {stroke: #f52c96;}
+    95%  {stroke: #f52c96;}
+}
+
+
+/* Add your CSS below */
+
+
+
+
+.menu-select [type="radio"]:checked + label:after {
+    border-color: #f52c96;
+    background-color: #f52c96;
+}
